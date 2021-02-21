@@ -1,0 +1,1 @@
+O Projeto Animais Fantastico foi criando com o intuito de aprendizado de html, css e posteriomente implementação de javascript, o mesmo foi criando atraves do curso da plataforma origamid.
